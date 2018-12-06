@@ -19,3 +19,6 @@
 [submodule "riscv-gdb"]
 	path = riscv-gdb
 	url = ../riscv-binutils-gdb.git
+[submodule "riscv-opcodes"]
+	path = riscv-opcodes
+	url = git@github.com:Cirromulus/riscv-opcodes.git
