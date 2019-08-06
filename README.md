@@ -107,3 +107,6 @@ To test GCC, run the following commands:
     ./configure --prefix=$RISCV
     make linux
     make report-linux
+
+### Adding Opcodes
+For documentation on how to add opcodes, see the [presentation](doc/adding_opcodes/adding_opcodes.pdf).
